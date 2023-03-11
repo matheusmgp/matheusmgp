@@ -1,5 +1,18 @@
 ## Olá, me chamo Matheus Gustavo Pereira,sou programador backend em nodejs/typescript e C#.
-
+ 
+ ### Conhecimentos
+ - nodejs 
+ - typescript
+ - NESTJS
+ - docker
+ - mensageria(rabbitmq)
+ - serverless(aws lambda)
+ - mongoDB/mysql
+ - tests com jest
+ - SOLID
+ - C#/.netCORE
+ - AWS(S3,SNS,LAMBDA)
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
