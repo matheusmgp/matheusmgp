@@ -1,4 +1,4 @@
-## Olá, me chamo Matheus Gustavo Pereira,sou programador backend em nodejs/typescript e C#.
+## Olá, me chamo Matheus Gustavo Pereira,sou programador backend em javascript/nodejs/typescript/nestjs e C#.
  
  ### Conhecimentos
  - nodejs
