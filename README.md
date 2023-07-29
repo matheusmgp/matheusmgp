@@ -1,6 +1,7 @@
 ## Olá, me chamo Matheus Gustavo Pereira,sou programador backend em javascript/nodejs/typescript/nestjs e C#.
  
- ### Conhecimentos
+ ### Conhecimentos HARD SKILLS
+ - javascript
  - nodejs
  - Prisma
  - typescript
@@ -9,8 +10,15 @@
  - mensageria(rabbitmq)
  - serverless(aws lambda)
  - mongoDB/mysql
- - tests com jest
+ - tests com JEST
+ - PHP
+ - ANGULAR
+ - laravel
+ - vuejs
+ - HTML/CSS/JQUERY
  - SOLID
+ - CLEAN-CODE
+ - CLEAN-ARCHITECTURE 
  - C#/.netCORE
  - AWS(S3,SNS,LAMBDA)
  
