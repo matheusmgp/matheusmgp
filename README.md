@@ -10,7 +10,7 @@ My experience spans a variety of backend languages ​​and technologies, inclu
 I have solid skills in designing and developing RESTful APIs, systems integration. 
 I really enjoy working with the javascript stack (javascript , nodejs , typescript , nestjs ,angularJS) 
 
-I also have a youtube channel,where I can share my knowledge https://www.youtube.com/@/MatheusGustavoMGP
+I also have a youtube channel,where I can share my knowledge [https://www.youtube.com/@/MatheusGustavoMGP](https://www.youtube.com/@MatheusGustavoMGP/videos)
 
 * 🌍  I'm based in Brazil - Fortaleza - Ceará
 * ✉️  You can contact me at [matheusgustavo.mgp@gmail.com](mailto:matheusgustavo.mgp@gmail.com)
