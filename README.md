@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus Gustavo
 Fullstack Developer
 -------------------
 
-Graduated in Systems Analysis and Development at Uniateneu Centro Universitario. I'm a fullstack developer with more than 5 years of solid experience in development. 
+Graduated in Systems Analysis and Development at Uniateneu Centro Universitario. I'm a fullstack developer with more than 7 years of solid experience in development. 
 Throughout my career, I've had the opportunity to work on many challenging projects, which has given me a background in software development and a passion for creating efficient solutions. 
 My experience spans a variety of backend languages ​​and technologies, including but not limited to , Node.js and C#.
 I have solid skills in designing and developing RESTful APIs, systems integration. 
